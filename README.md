@@ -1,4 +1,6 @@
-### Hi there, Welcome to my Github 👋
+### Hi there, Welcome to my Github 👋 
+
+![](https://komarev.com/ghpvc/?username=JayjeetAtGithub&color=green)
 
 <!--
 **JayjeetAtGithub/JayjeetAtGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
